@@ -111,7 +111,7 @@ vanilla_java/
 ├── questions.txt        # Questions database
 ├── answers.txt          # Correct answers database
 ├── README.md           # Project documentation
-└── destroyer.sh        # Utility script (optional)
+
 ```
 
 ## ⚙️ How It Works
