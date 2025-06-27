@@ -1,0 +1,120 @@
+1. Which of the following is not a Java keyword?
+A) class
+B) interface
+C) extends
+D) implement
+
+2. What is the size of an int in Java?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) Depends on the system
+
+3. Which of the following is not a primitive data type in Java?
+A) float
+B) boolean
+C) String
+D) char
+
+4. Which method is used to start a thread in Java?
+A) start()
+B) run()
+C) execute()
+D) init()
+
+5. Which keyword is used for inheritance in Java?
+A) implement
+B) extends
+C) inherits
+D) super
+
+6. Which of the following is a valid declaration of an array in Java?
+A) int arr[] = new int(5);
+B) int arr[] = int[5];
+C) int arr[] = new int[5];
+D) int arr() = new int[5];
+
+7. Which of the following is a wrapper class in Java?
+A) int
+B) char
+C) Integer
+D) float
+
+8. What is the default value of a boolean variable?
+A) true
+B) false
+C) 0
+D) null
+
+9. What is the output of System.out.println(10 + 20 + "Java");?
+A) 1020Java
+B) 30Java
+C) Java1020
+D) Java30
+
+10. Which exception is thrown when an array is accessed out of bounds?
+A) NullPointerException
+B) IOException
+C) ArrayIndexOutOfBoundsException
+D) ClassNotFoundException
+
+11. Which of these is not a Java feature?
+A) Object-oriented
+B) Portable
+C) Dynamic
+D) Use of pointers
+
+12. Which loop is guaranteed to execute at least once?
+A) for loop
+B) while loop
+C) do-while loop
+D) foreach loop
+
+13. Which of these is not a valid access modifier in Java?
+A) public
+B) private
+C) protected
+D) internal
+
+14. What is the return type of the main method?
+A) int
+B) void
+C) String
+D) char
+
+15. Which keyword is used to define a constant in Java?
+A) const
+B) static
+C) final
+D) define
+
+16. What does the this keyword refer to?
+A) The parent class
+B) The current object
+C) The base class
+D) The main method
+
+17. Which operator is used to compare two values?
+A) =
+B) ==
+C) !=
+D) ===
+
+18. What is the superclass of all classes in Java?
+A) Object
+B) Class
+C) Super
+D) Base
+
+19. Which of the following allows multiple methods with the same name in a class?
+A) Method overriding
+B) Method duplication
+C) Method hiding
+D) Method overloading
+
+20. Which of these is a valid interface declaration?
+A) interface MyInterface {}
+B) class MyInterface implements interface {}
+C) MyInterface class {}
+D) interface class MyInterface {}
+

@@ -1,0 +1,40 @@
+1. D) implement
+
+2. B) 4 bytes
+
+3. C) String
+
+4. A) start()
+
+5. B) extends
+
+6. C) int arr[] = new int[5];
+
+7. C) Integer
+
+8. B) false
+
+9. B) 30Java
+
+10. C) ArrayIndexOutOfBoundsException
+
+11. D) Use of pointers
+
+12. C) do-while loop
+
+13. D) internal
+
+14. B) void
+
+15. C) final
+
+16. B) The current object
+
+17. B) ==
+
+18. A) Object
+
+19. D) Method overloading
+
+20. A) interface MyInterface {}
+
